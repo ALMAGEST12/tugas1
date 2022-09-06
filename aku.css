@@ -1,0 +1,77 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.nama{
+    color:white;
+    background-color: peru;
+    width: ;
+    box-sizing: border-box;
+    height: 250px;
+    padding: 65px;
+    font-size: 35px;
+}   
+.row{
+    display: flex;
+}
+.cols{
+    margin-left: 50px;
+    width: 120%;
+}
+.judul{
+    color:whitesmoke;
+    background-color:sienna;
+    width: 95%;
+    line-height:57px ;
+    padding-left: 20px;
+}
+.sejajar{
+    display: inline-block;
+}
+.kontak{
+    padding-top: 30px;
+    text-align: left;
+    background-color: tan;
+    width: 35%; 
+    margin-top: -200px;
+    margin-right: 100px;
+    box-sizing: border-box;
+}   
+
+.kontak .foto{
+    margin: 0 auto;
+    display: block;
+}
+
+.kontak .infokontak{
+    color: white;
+    margin-left: 20px;
+}
+
+td{
+    font-size: 20px;
+}
+ol{
+    font-size: 20px;
+}
+a{
+    color: white;
+}
+ul{
+    margin-right: 30px;
+}
+.judulkanan{
+    border-bottom: 3px solid white ;
+    width: 90%;
+    color: white;
+}
+.bawah{
+    margin-top: 10px;
+    background-color: peru;
+    width: ;
+    height: 100px;
+}
